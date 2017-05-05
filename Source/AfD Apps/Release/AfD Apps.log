@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1193,5): warning MSB8030: The linker switch "Minimum Required Version" requires "SubSystem" to be set.  Without "SubSystem", the "Minimum Required Version" would not be passed to linker and could prevent to the output binary from running on older Operating Systems.
+  Generating code
+  All 114 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  AfD Apps.vcxproj -> D:\2.Document\3. Programing\1. Language Programing\1. C-C++\2. Add Component (Thêm nội dung)\4. Product\Caro 2015\Source\Release\AfD Apps.exe
+  AfD Apps.vcxproj -> D:\2.Document\3. Programing\1. Language Programing\1. C-C++\2. Add Component (Thêm nội dung)\4. Product\Caro 2015\Source\Release\AfD Apps.pdb (Full PDB)

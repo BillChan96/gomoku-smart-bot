@@ -1,0 +1,39 @@
+﻿Build started 05/12/2015 4:30:31 CH.
+     1>Project "D:\2.Document\3. Programing\1. Language Programing\1. C-C++\5. Theme\Console\AfD Apps\AfD Apps\AfD Apps.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt Check.cpp GraphicTable.cpp Intro.cpp ProgramMain.cpp SearchMove.cpp SetConsole.cpp Table.cpp
+         Check.cpp
+     1>Check.cpp(17): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+     1>Check.cpp(25): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+     1>Check.cpp(34): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+     1>Check.cpp(42): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+     1>Check.cpp(56): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+     1>Check.cpp(64): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+     1>Check.cpp(75): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+     1>Check.cpp(83): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+     1>Check.cpp(96): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+     1>Check.cpp(104): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+     1>Check.cpp(115): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+     1>Check.cpp(123): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+         GraphicTable.cpp
+         Intro.cpp
+         ProgramMain.cpp
+         SearchMove.cpp
+         SetConsole.cpp
+         Table.cpp
+       Link:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\2.Document\3. Programing\1. Language Programing\1. C-C++\5. Theme\Console\AfD Apps\x64\Release\AfD Apps.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\2.Document\3. Programing\1. Language Programing\1. C-C++\5. Theme\Console\AfD Apps\x64\Release\AfD Apps.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\2.Document\3. Programing\1. Language Programing\1. C-C++\5. Theme\Console\AfD Apps\x64\Release\AfD Apps.lib" /MACHINE:X64 x64\Release\Check.obj
+         x64\Release\GraphicTable.obj
+         x64\Release\Intro.obj
+         x64\Release\ProgramMain.obj
+         x64\Release\SearchMove.obj
+         x64\Release\SetConsole.obj
+         x64\Release\Table.obj
+         Generating code
+         Finished generating code
+         AfD Apps.vcxproj -> D:\2.Document\3. Programing\1. Language Programing\1. C-C++\5. Theme\Console\AfD Apps\x64\Release\AfD Apps.exe
+     1>Done Building Project "D:\2.Document\3. Programing\1. Language Programing\1. C-C++\5. Theme\Console\AfD Apps\AfD Apps\AfD Apps.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:15.39

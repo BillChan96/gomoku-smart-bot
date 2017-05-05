@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\5. Console Config">
+      <UniqueIdentifier>{7e1df559-d004-4a15-91d2-5c1011fe2bbd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\4. Theme Config">
+      <UniqueIdentifier>{57e299d8-c13a-461c-a2f5-e34a233baac4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\4. Theme Config\b. Table">
+      <UniqueIdentifier>{db1c5410-8c26-418f-ae23-f871829d7bfb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\4. Theme Config\a. Intro and Notification">
+      <UniqueIdentifier>{3397dbdd-d36e-4fb5-bd70-6ea219c63f06}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\3. Calculator">
+      <UniqueIdentifier>{7f159ef9-a1f4-435c-80a8-4297a6653bc9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\3. Calculator\Check">
+      <UniqueIdentifier>{06cbaf24-23ba-441c-a801-e280005ec59d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\3. Calculator\Search  Move">
+      <UniqueIdentifier>{825b9327-63d8-423f-bf9d-185ba5649309}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\2. Table">
+      <UniqueIdentifier>{5a28b103-46eb-48c7-800a-12f35b3a66be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\1. Home">
+      <UniqueIdentifier>{d3d71b24-4ce0-4c27-ae57-13e72a6ac2cf}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ProgramMain.cpp">
+      <Filter>Source Files\1. Home</Filter>
+    </ClCompile>
+    <ClCompile Include="SetConsole.cpp">
+      <Filter>Source Files\5. Console Config</Filter>
+    </ClCompile>
+    <ClCompile Include="Intro.cpp">
+      <Filter>Source Files\4. Theme Config\a. Intro and Notification</Filter>
+    </ClCompile>
+    <ClCompile Include="GraphicTable.cpp">
+      <Filter>Source Files\4. Theme Config\b. Table</Filter>
+    </ClCompile>
+    <ClCompile Include="Table.cpp">
+      <Filter>Source Files\2. Table</Filter>
+    </ClCompile>
+    <ClCompile Include="Check.cpp">
+      <Filter>Source Files\3. Calculator\Check</Filter>
+    </ClCompile>
+    <ClCompile Include="SearchMove.cpp">
+      <Filter>Source Files\3. Calculator\Search  Move</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Intro.h">
+      <Filter>Source Files\4. Theme Config\a. Intro and Notification</Filter>
+    </ClInclude>
+    <ClInclude Include="SetConsole.h">
+      <Filter>Source Files\5. Console Config</Filter>
+    </ClInclude>
+    <ClInclude Include="GraphicTable.h">
+      <Filter>Source Files\4. Theme Config\b. Table</Filter>
+    </ClInclude>
+    <ClInclude Include="Table.h">
+      <Filter>Source Files\2. Table</Filter>
+    </ClInclude>
+    <ClInclude Include="Check.h">
+      <Filter>Source Files\3. Calculator\Check</Filter>
+    </ClInclude>
+    <ClInclude Include="SearchMove.h">
+      <Filter>Source Files\3. Calculator\Search  Move</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
